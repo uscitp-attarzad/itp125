@@ -1,0 +1,19 @@
+-Problem 1
+Part (a):
+a. Asking the course staff for help.
+b. sublime
+c. Each student has 4 late days of which only 1 can be used per HW.
+d. Start the next assignment sooner.
+
+-Problem 2
+Part (a):
+a. Terminal
+
+Part (c):
+a. git add hw1q2b.cpp, git status, git commit -m "Your comment goes here", git push
+b. git log -3
+
+Part (c):
+a. Load the files into a staging area which and set the color to green, you will need to do git push to push your files to the server
+
+-Problem 3:
